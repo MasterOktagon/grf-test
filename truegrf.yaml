@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f18f87f0
+license: CC-BY-NC-4.0
+name: grf-test
 type: industry
+url: https://github.com/MasterOktagon/grf-test
 version: 6
